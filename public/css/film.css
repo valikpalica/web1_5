@@ -1,0 +1,49 @@
+.img{
+    width: 200px;
+    height: 300px;
+    border: 3px green solid;
+    margin: 30px 30px;
+}
+.description{
+    text-align: left;
+    margin: 30px 0px;
+}
+body{
+    background-color: yellow;
+    margin: 0px;
+    padding: 0px;
+}
+
+.film_head{
+    display: flex;
+}
+hr{
+    background-color: darkblue;
+    height: 5px;
+}
+h2{
+    size: 20px;
+    color: darkgrey;
+    text-align: left;
+    margin: 10px 30px;
+}
+.divfotos{
+    margin: 0px auto;
+    width: 900px;
+    height: auto;
+    padding: 20px;
+
+}
+.divfotos img{
+    width: 320px;
+    height: 240px;
+    border: orange solid 3px;
+    margin: 50px;
+}
+
+.text{
+    text-align: justify;
+    margin-left: 15px;
+    text-indent: 15px;
+}
+
